@@ -71,9 +71,6 @@ function build_footer (obj) {
     var innerHTML = "";
     
     innerHTML += 
-'<p class="morelink"><a href="#">Get More Posts...</a></p>';
-    
-    innerHTML += 
 '   <div class="tydget-footer-outer">\n' + 
 '       <a class="tydget-footer-inner" href="http://www.typepad.com">Powered by TypePad</a>\n' + 
 '   </div>\n';
