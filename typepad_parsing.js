@@ -7,14 +7,12 @@ function ada_callback(json_response) {
         return;
     }
     
-    // set up the outer div wrappers.
-    innerHTML =
-'<div id="ada">  \n';
+
+    innerHTML = "";
+    
 //    innerHTML += build_header(json_response);
     innerHTML += build_inner_body(json_response);
     innerHTML += build_footer(json_response);
-    innerHTML += 
-'</div>';
 
    tydget.innerHTML = innerHTML;
 
@@ -122,9 +120,9 @@ function create_event_detail (obj, author) {
     innerHTML += 
 '       <div class="tydget-event-detail">\n' + 
 //'               <a class="tydget-author_link" href="' + author.profilePageUrl + '">' + get_author_name(author) + '</a>\n' + 
-'               <h3 class="tydget-title-string"><a href="' + obj.permalinkUrl + '">' + obj.title + '</a></h3>\n' + 
-'              <p class="tydget-body-string">' + obj.excerpt + '</p>\n' +  
-'              <p class="tydget-credit">by <a href="' + author.profilePageUrl + '">' + get_author_name(author) + '</a></p>\n' +
+'               <p><b><a href="' + obj.permalinkUrl + '">' + obj.title + '</a></b></p>\n' + 
+'              <p>' + obj.excerpt + '</p>\n' +  
+'              <p>by <a href="' + author.profilePageUrl + '">' + get_author_name(author) + '</a></p>\n' +
 '       </div>\n';
 
     return innerHTML;
