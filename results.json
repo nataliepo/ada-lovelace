@@ -1,0 +1,1312 @@
+{
+   "entries" : [
+      {
+         "author" : {
+            "aboutMe" : "Technology Journalist, author, freelance",
+            "avatarLink" : {
+               "height" : 120,
+               "url" : "http://up1.typepad.com/6a00d83451da3169e200e553c156198833-pi",
+               "urlTemplate" : "http://up1.typepad.com/6a00d83451da3169e200e553c156198833-{spec}",
+               "width" : 150
+            },
+            "displayName" : "",
+            "id" : "tag:api.typepad.com,2009:6p00d83451da3169e2",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00d83451da3169e2.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00d83451da3169e2/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.danablankenhorn.com",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/danablankenhorn",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up1.typepad.com/6a00d83451da3169e200e553c156198833-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up1.typepad.com/6a00d83451da3169e200e553c156198833-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up1.typepad.com/6a00d83451da3169e200e553c156198833-400wi",
+                  "rel" : "avatar",
+                  "width" : 150
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up1.typepad.com/6a00d83451da3169e200e553c156198833-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00d83451da3169e2/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : null,
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "danablankenhorn",
+            "profilePageUrl" : "http://profile.typepad.com/danablankenhorn",
+            "urlId" : "6p00d83451da3169e2"
+         },
+         "categories" : [
+            "education",
+            "ethics",
+            "Personal",
+            "Weblogs"
+         ],
+         "commentCount" : 1,
+         "content" : "<p><a href=\"http://200billionscandal.typepad.com/.a/6a00d83451da3169e201310fa2d409970c-pi\" style=\"float: right;\"><img alt=\"Ada_Lovelace from wikipedia\" border=\"0\" class=\"asset asset-image at-xid-6a00d83451da3169e201310fa2d409970c \" src=\"http://200billionscandal.typepad.com/.a/6a00d83451da3169e201310fa2d409970c-800wi\" style=\"margin: 0px 0px 5px 5px;\" title=\"Ada_Lovelace from wikipedia\" /></a> Today is <a href=\"http://findingada.com/about/\">Ada Lovelace Day</a>.</p><p>Don&#39;t know her? The only child of Lord Byron, she grew up into a talented mathematician who designed a program for Charles Babbage&#39;s <a href=\"http://en.wikipedia.org/wiki/Analytical_engine\">Analytical Engine</a>. The engine was <a href=\"http://www.smartplanet.com/technology/blog/thinking-tech/the-impossible-computer-is-theoretically-possible/3394/?tag=content;col1\">never built</a> -- it was far ahead of the machining that era was capable of -- but her work is honored today as the first computer program. The <a href=\"http://en.wikipedia.org/wiki/Ada_%28programming_language%29\">Ada</a> computing language is named for her.&#0160;</p><p>The <a href=\"http://blog.findingada.com/faq/\">purpose</a> of Ada Lovelace Day is to honor women in programming and computing. The idea is that these women are less well-known than their male counterparts, and that they deserve some recognition.</p><p>It&#39;&#39;s also to celebrate those qualities women bring to the party. </p><p>I agree. Many programming shops have as many women as men in them. Programming is mainly a mental activity, something men and women can do equally well. It&#39;s not weightlifting -- the sexes should compete on equal terms.</p><p>But there are some important differences, some lessons if you will, that male programmers can learn from women. I have benefited enormously from them, as you will learn when I discus my own nominee.</p><p>\r\n</p>",
+         "description" : "If you can explain yourself, if you can get along, if you're a good teammate and a good friend, you will go as far as your programming talent takes you. These are important lessons, lessons Jenni taught me, and lessons her example can teach you, too.",
+         "embeddedImageLinks" : [
+            {
+               "height" : 318,
+               "url" : "http://a1.typepad.com/6a00d83451da3169e201310fa2d409970c-pi",
+               "urlTemplate" : "http://a1.typepad.com/6a00d83451da3169e201310fa2d409970c-{spec}",
+               "width" : 200
+            },
+            {
+               "height" : 251,
+               "url" : "http://a3.typepad.com/6a00d83451da3169e201310fa2d56b970c-pi",
+               "urlTemplate" : "http://a3.typepad.com/6a00d83451da3169e201310fa2d56b970c-{spec}",
+               "width" : 200
+            }
+         ],
+         "excerpt" : "If you can explain yourself, if you can get along, if you're a good teammate and a good friend, you will go as far as your programming talent takes you. These are important lessons, lessons Jenni taught me, and lessons her example can teach you, too.",
+         "favoriteCount" : 0,
+         "filename" : "happy-ada-lovelace-day-mdear",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00d83451da3169e20120a93c2472970b",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00d83451da3169e20120a93c2472970b/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00d83451da3169e20120a93c2472970b/comments.json",
+               "rel" : "replies",
+               "total" : 1,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://www.danablankenhorn.com/2010/03/happy-ada-lovelace-day-mdear.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00d83451da3169e20120a93c2472970b.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://www.danablankenhorn.com/2010/03/happy-ada-lovelace-day-mdear.html",
+         "published" : "2010-03-15T18:26:44Z",
+         "renderedContent" : "<p><a href=\"http://200billionscandal.typepad.com/.a/6a00d83451da3169e201310fa2d409970c-pi\" style=\"float: right;\"><img alt=\"Ada_Lovelace from wikipedia\" border=\"0\" class=\"asset asset-image at-xid-6a00d83451da3169e201310fa2d409970c \" src=\"http://200billionscandal.typepad.com/.a/6a00d83451da3169e201310fa2d409970c-800wi\" style=\"margin: 0px 0px 5px 5px;\" title=\"Ada_Lovelace from wikipedia\" /></a> Today is <a href=\"http://findingada.com/about/\">Ada Lovelace Day</a>.</p><p>Don&#39;t know her? The only child of Lord Byron, she grew up into a talented mathematician who designed a program for Charles Babbage&#39;s <a href=\"http://en.wikipedia.org/wiki/Analytical_engine\">Analytical Engine</a>. The engine was <a href=\"http://www.smartplanet.com/technology/blog/thinking-tech/the-impossible-computer-is-theoretically-possible/3394/?tag=content;col1\">never built</a> -- it was far ahead of the machining that era was capable of -- but her work is honored today as the first computer program. The <a href=\"http://en.wikipedia.org/wiki/Ada_%28programming_language%29\">Ada</a> computing language is named for her.&#0160;</p><p>The <a href=\"http://blog.findingada.com/faq/\">purpose</a> of Ada Lovelace Day is to honor women in programming and computing. The idea is that these women are less well-known than their male counterparts, and that they deserve some recognition.</p><p>It&#39;&#39;s also to celebrate those qualities women bring to the party. </p><p>I agree. Many programming shops have as many women as men in them. Programming is mainly a mental activity, something men and women can do equally well. It&#39;s not weightlifting -- the sexes should compete on equal terms.</p><p>But there are some important differences, some lessons if you will, that male programmers can learn from women. I have benefited enormously from them, as you will learn when I discus my own nominee.</p><p>\r\n</p>",
+         "textFormat" : "html",
+         "title" : "Happy Ada Lovelace Day, m'dear",
+         "urlId" : "6a00d83451da3169e20120a93c2472970b"
+      },
+      {
+         "author" : {
+            "aboutMe" : "",
+            "avatarLink" : {
+               "height" : 112,
+               "url" : "http://up5.typepad.com/6a00d834790a6569e200e5500104168833-pi",
+               "urlTemplate" : "http://up5.typepad.com/6a00d834790a6569e200e5500104168833-{spec}",
+               "width" : 150
+            },
+            "displayName" : "Plot agents",
+            "id" : "tag:api.typepad.com,2009:6p00d834790a6569e2",
+            "interests" : [
+               "strategy & design thinking & projects • develop original research",
+               "strategy & design responses • create brand stories",
+               "future scenarios & design strategies • facilitate workshops & worksessions • devise & run tailored workshops • give teams the skills & tools to",
+               "& propositions • create new market propositions • prototype ideas • develop & improve new and existing products and services. we know innovation",
+               "we find you an approach that works for your teams",
+               "your audiences. there are patterns in the way that innovation works",
+               "but your situation is unique. we want you to see",
+               "& do things differently — so that you can make a difference. we don’t sell you things",
+               "we are nick durrant and gill wildman. we help you make sense of complex dynamic projects • contribute to research",
+               "we make sure that we leave behind ideas & techniques that you can use in all of your work. so we do a lot of listening to find out how we could work with you."
+            ],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00d834790a6569e2.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00d834790a6569e2/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.plotlondon.net",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/wildwoman",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up5.typepad.com/6a00d834790a6569e200e5500104168833-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up5.typepad.com/6a00d834790a6569e200e5500104168833-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 112,
+                  "href" : "http://up5.typepad.com/6a00d834790a6569e200e5500104168833-400wi",
+                  "rel" : "avatar",
+                  "width" : 150
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up5.typepad.com/6a00d834790a6569e200e5500104168833-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00d834790a6569e2/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : "London",
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "wildwoman",
+            "profilePageUrl" : "http://profile.typepad.com/wildwoman",
+            "urlId" : "6p00d834790a6569e2"
+         },
+         "categories" : [],
+         "commentCount" : 0,
+         "content" : "<p>Last year we joined in on the <a href=\"http://findingada.com\" target=\"_blank\">Ada Lovelace Day</a> - a huge wave of blogging on inspiring women in technology and science. We mentioned the amazing <a href=\"http://www.typepad.com/site/blogs/6a00d834790a6569e200d834790a6a69e2/post/6a00d834790a6569e201156f444dda970b/edit\" target=\"_blank\">Heddy Lamarr</a>, who managed to be a Hollywood star, and to have discovered something so fundamental to our lives now. Our last years entry is here.</p><p>As they say, and I do agree &quot;because because women need to see female role models more than men need to see male ones&quot;</p><p>There are still too few women in conferences, too few examples of women who have managed to be acknowledged for their work, or their contributions. Even recently I saw a discussion about women speakers where a woman wrote in to declare her complete fear in presenting something, and how that would stop her from even trying. </p><p>Unless we do it, stand up when we&#39;re scared of doing so, then no one gets to hear what&#39;s happened. It&#39;s not about whether you feel like you are good enough. Take it from me, my presentation style (a mixture of stand-up, forgetting the important parts and serious content with supporting notes) doesn&#39;t make me the presenter I&#39;d love to be. I dream of being articulate, urbane and sophisticated, but it is just not my style. (don&#39;t get me started on the Media Futures piece in 2008, it was hell on stage, but I&#39;ve been through worse, and I&#39;m still here to tell the tale!)</p><p>What I know is that it&#39;s important, is to step up - we have a responsibility to be there for all of the women who come after us. That&#39;s it.</p><p>So my candidate for this year is Helen Aspell, as the write up from last year&#39;s <a href=\"http://www.futuresonic.com/09/\" target=\"_blank\">Futuresonic</a> (yeah, now <a href=\"http://www.futureeverything.org\" target=\"_blank\">Futureeverything</a>) goes:</p><blockquote><p>&quot;Helen Aspell is Head of Digital at <a href=\"http://www.equalityhumanrights.com\" target=\"_blank\">EHRC</a> (Equality and Human Rights\r\nCommission). Helen seeks to enable everybody to engage in technology\r\nand create an equal playing field. She promotes the idea that online\r\nsocial spaces for young people need to allow the young people to be\r\nthemselves. Rather than banning or controlling anti-social behaviour,\r\nthe way to deal with it is through open engagement.&quot;</p></blockquote><p>In this time where we are trying to work out what the hell a Digital Britain could be, and what it can offer to the digitally disenfranchised, and how we make a genuine attempt to connect meaningfully, my money is on Helen. Not only that, but she was someone who presents her ideas with passion and fearlessness - qualities that make her someone powerful, and convincing.</p><p>I want to see what she does, and how she inspires others.</p><p></p><p></p>",
+         "description" : "Ada Lovelace day is here again, and this time we nominate someone who is making inroads into connecting with the digitally disenfranchised, Helen Aspall.",
+         "embeddedImageLinks" : [],
+         "excerpt" : "Ada Lovelace day is here again, and this time we nominate someone who is making inroads into connecting with the digitally disenfranchised, Helen Aspall.",
+         "favoriteCount" : 0,
+         "filename" : "helen-aspall-for-ada-lovelace-day",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00d834790a6569e20120a8cf3afd970b",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00d834790a6569e20120a8cf3afd970b/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00d834790a6569e20120a8cf3afd970b/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://plotblog.typepad.com/plotblog/2010/03/helen-aspall-for-ada-lovelace-day.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00d834790a6569e20120a8cf3afd970b.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://plotblog.typepad.com/plotblog/2010/03/helen-aspall-for-ada-lovelace-day.html",
+         "published" : "2010-02-24T20:32:52Z",
+         "renderedContent" : "<p>Last year we joined in on the <a href=\"http://findingada.com\" target=\"_blank\">Ada Lovelace Day</a> - a huge wave of blogging on inspiring women in technology and science. We mentioned the amazing <a href=\"http://www.typepad.com/site/blogs/6a00d834790a6569e200d834790a6a69e2/post/6a00d834790a6569e201156f444dda970b/edit\" target=\"_blank\">Heddy Lamarr</a>, who managed to be a Hollywood star, and to have discovered something so fundamental to our lives now. Our last years entry is here.</p><p>As they say, and I do agree &quot;because because women need to see female role models more than men need to see male ones&quot;</p><p>There are still too few women in conferences, too few examples of women who have managed to be acknowledged for their work, or their contributions. Even recently I saw a discussion about women speakers where a woman wrote in to declare her complete fear in presenting something, and how that would stop her from even trying. </p><p>Unless we do it, stand up when we&#39;re scared of doing so, then no one gets to hear what&#39;s happened. It&#39;s not about whether you feel like you are good enough. Take it from me, my presentation style (a mixture of stand-up, forgetting the important parts and serious content with supporting notes) doesn&#39;t make me the presenter I&#39;d love to be. I dream of being articulate, urbane and sophisticated, but it is just not my style. (don&#39;t get me started on the Media Futures piece in 2008, it was hell on stage, but I&#39;ve been through worse, and I&#39;m still here to tell the tale!)</p><p>What I know is that it&#39;s important, is to step up - we have a responsibility to be there for all of the women who come after us. That&#39;s it.</p><p>So my candidate for this year is Helen Aspell, as the write up from last year&#39;s <a href=\"http://www.futuresonic.com/09/\" target=\"_blank\">Futuresonic</a> (yeah, now <a href=\"http://www.futureeverything.org\" target=\"_blank\">Futureeverything</a>) goes:</p><blockquote><p>&quot;Helen Aspell is Head of Digital at <a href=\"http://www.equalityhumanrights.com\" target=\"_blank\">EHRC</a> (Equality and Human Rights\r\nCommission). Helen seeks to enable everybody to engage in technology\r\nand create an equal playing field. She promotes the idea that online\r\nsocial spaces for young people need to allow the young people to be\r\nthemselves. Rather than banning or controlling anti-social behaviour,\r\nthe way to deal with it is through open engagement.&quot;</p></blockquote><p>In this time where we are trying to work out what the hell a Digital Britain could be, and what it can offer to the digitally disenfranchised, and how we make a genuine attempt to connect meaningfully, my money is on Helen. Not only that, but she was someone who presents her ideas with passion and fearlessness - qualities that make her someone powerful, and convincing.</p><p>I want to see what she does, and how she inspires others.</p><p></p><p></p>",
+         "textFormat" : "html",
+         "title" : "Helen Aspall for Ada Lovelace Day",
+         "urlId" : "6a00d834790a6569e20120a8cf3afd970b"
+      },
+      {
+         "author" : {
+            "aboutMe" : "",
+            "avatarLink" : {
+               "url" : "http://profile.ak.fbcdn.net/profile6/1228/123/n1159756710_540.jpg"
+            },
+            "displayName" : "Rosanna Santonocito",
+            "id" : "tag:api.typepad.com,2009:6p00e54eda81ae8833",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00e54eda81ae8833.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00e54eda81ae8833/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://profile.typepad.com/santonocitoblog24",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://profile.ak.fbcdn.net/profile6/1228/123/q1159756710_540.jpg",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "href" : "http://profile.ak.fbcdn.net/profile6/1228/123/n1159756710_540.jpg",
+                  "rel" : "avatar"
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00e54eda81ae8833/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : null,
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "santonocitoblog24",
+            "profilePageUrl" : "http://profile.typepad.com/santonocitoblog24",
+            "urlId" : "6p00e54eda81ae8833"
+         },
+         "categories" : [
+            "Il lato B"
+         ],
+         "commentCount" : 3,
+         "content" : "<p><a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96ea309970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: left\"><img alt=\"Ada-lovelace\" class=\"asset asset-image at-xid-6a00e54eda81ae88330120a96ea309970b \" src=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96ea309970b-250wi\" style=\"MARGIN: 0px 5px 5px 0px; WIDTH: 250px\" /></a> &#0160;Oggi è la giornata giusta per dire grazie, ma grazie di cuore a <a href=\"http://en.wikipedia.org/wiki/Ada_Lovelace\" target=\"_blank\">Ada Lovelace</a>, che è la signora elegantissima del ritratto,&#0160;figlia del più noto poeta Lord Byron. A lei spetta il merito, solo in minima parte riconosciuto dalla storia della scienza e tecnologia scritta da menti maschili, di avere gettato,&#0160;nella prima metà dell&#39;800, le basi della programmazione informatica e quindi, molto indirettamente, di permettere a noi di essere qui stamattina a picchiare sulla tastiera per&#0160;lanciare i nostri pensieri e i nostri tweet nel blogospazio. In mezzo, tra&#0160;il qui e ora e&#0160;il sistemino di perforazione che Lady Ada, appassionata di ricamo, scommesse sui cavalli&#0160;e matematica, inventò per fare meno fatica a lavorare con il telaietto nel suo salottino vittoriano, c&#39;è tutta la storia dei computer, dell&#39;Information technology e di altre immense cose di cui noi donne - che si sa, siamo minimaliste&#0160; per natura e use a&#0160;darci piccoli obbiettivi - non rivendichiamo la paternità, o meglio la maternità. <br />In effetti l&#39;altro grande merito di Ada Lovelace fu quello di aver capito&#0160;subito che i computer erano molto di più che una scatola per fare i conti, altra visione prettamente maschile e rivelatasi inesatta.<br />Il 24 marzo in Internet&#0160;è l&#39;Ada Lovelace day, giorno in cui su tutta la Rete blog, twitter, siti&#0160;si scrive, disegna, posta e&#0160;tweetta per attrarre l&#39;attenzione sul contributo mai abbastanza riconosciuto delle donne al progresso della scienza e della tecnologia. JobTalk c&#39;è. Il sito ufficiale&#0160;è <a href=\"http://findingada.com/\" target=\"_blank\">Findingada.com</a> che ha anche il suo bravo <a href=\"http://blog.findingada.com/\" target=\"_blank\">blog.</a> Lì si può sapere tutto di Ada, per esempio che scrisse programmi per Charles Babbage padre, riconosciutissimo invece,&#0160;delle macchine da elaborazione antenate del computer, e anche che fu proprio lei a&#0160;mettere giù la prima descrizione sensata di computer e di software.&#0160;&#0160;Su Twitter&#0160;&#0160;l&#39; hashtag&#0160;dell&#39;Ada Lovelace Day è &#0160;<a class=\"tweet-url hashtag\" href=\"http://www.typepad.com/search?q=%23ald10\" rel=\"nofollow\" title=\"#ald10\"><font color=\"#2276bb\">#ald10</font></a>&#0160;.<a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb49f970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: right\"></a> <a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb634970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: right\"><img alt=\"Computer-engineer-barbie\" class=\"asset asset-image at-xid-6a00e54eda81ae88330120a96eb634970b \" src=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb634970b-150wi\" style=\"MARGIN: 0px 0px 5px 5px; WIDTH: 150px\" /></a> <br />&#0160;In tono con la giornata, la notizia che in un sondaggio popolare che ha coinvolto mezzo&#0160;milione di votanti, <a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb5b0970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: left\"></a><a href=\"http://mashable.com/2010/03/09/computer-engineer-barbie/\" target=\"_blank\">sul nuovo futuro professionale della bambola Barbie </a>- &quot;labarbie&quot;per noi bambine del secolo scorso - molto consenso ma anche acceso dibattito ha suscitato la&#0160;proposta della Barbie programmatrice, o Coder Barbie, con il computer rosa, la scritta Barbie in codice binario sulla t shirt e gli occhialetti fluo come quelli della ministra Gelmini. Troppo gnocca e patinata per rappresentare le professioniste It vere,&#0160;è stata l&#39;obiezione. Troppo Barbie insomma. L&#39;argomento&#0160;con cui la corrente contrapposta, quella filo-life in plastic&#0160;is fantastic ribatte è che Ada, invece, l&#39;avrebbe apprezzata...Lo penso anch&#39;io.<br /><strong><em><font color=\"#ff0000\">SEGUI JOBTALK E JOB24.IT ANCHE SU TWITTER CON </font></em></strong><a href=\"http://twitter.com/24job\" target=\"_blank\"><font color=\"#810081\"><strong><em>24JOB</em></strong></font></a><br /></p>",
+         "description" : "",
+         "embeddedImageLinks" : [
+            {
+               "height" : 447,
+               "url" : "http://a1.typepad.com/6a00e54eda81ae88330120a96ea309970b-pi",
+               "urlTemplate" : "http://a1.typepad.com/6a00e54eda81ae88330120a96ea309970b-{spec}",
+               "width" : 631
+            },
+            {
+               "height" : 190,
+               "url" : "http://a4.typepad.com/6a00e54eda81ae88330120a96eb634970b-pi",
+               "urlTemplate" : "http://a4.typepad.com/6a00e54eda81ae88330120a96eb634970b-{spec}",
+               "width" : 260
+            }
+         ],
+         "excerpt" : "Oggi è la giornata giusta per dire grazie, ma grazie di cuore a Ada Lovelace, che è la signora elegantissima del ritratto, figlia del più noto poeta Lord Byron. A lei spetta il merito, solo in minima parte riconosciuto dalla...",
+         "favoriteCount" : 0,
+         "filename" : "il-lato-b-grazie-ad-ada-lovelace-che-inventò-linformatica-senza-dirlo-a-nessunooggi-su-internet-è-la",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00e54eda81ae883301310fd5b369970c",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00e54eda81ae883301310fd5b369970c/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00e54eda81ae883301310fd5b369970c/comments.json",
+               "rel" : "replies",
+               "total" : 3,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://jobtalk.blog.ilsole24ore.com/jobtalk/2010/03/il-lato-b-grazie-ad-ada-lovelace-che-invent%C3%B2-linformatica-senza-dirlo-a-nessunooggi-su-internet-%C3%A8-la.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00e54eda81ae883301310fd5b369970c.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://jobtalk.blog.ilsole24ore.com/jobtalk/2010/03/il-lato-b-grazie-ad-ada-lovelace-che-invent%C3%B2-linformatica-senza-dirlo-a-nessunooggi-su-internet-%C3%A8-la.html",
+         "published" : "2010-03-24T10:02:01Z",
+         "renderedContent" : "<p><a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96ea309970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: left\"><img alt=\"Ada-lovelace\" class=\"asset asset-image at-xid-6a00e54eda81ae88330120a96ea309970b \" src=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96ea309970b-250wi\" style=\"MARGIN: 0px 5px 5px 0px; WIDTH: 250px\" /></a> &#0160;Oggi è la giornata giusta per dire grazie, ma grazie di cuore a <a href=\"http://en.wikipedia.org/wiki/Ada_Lovelace\" target=\"_blank\">Ada Lovelace</a>, che è la signora elegantissima del ritratto,&#0160;figlia del più noto poeta Lord Byron. A lei spetta il merito, solo in minima parte riconosciuto dalla storia della scienza e tecnologia scritta da menti maschili, di avere gettato,&#0160;nella prima metà dell&#39;800, le basi della programmazione informatica e quindi, molto indirettamente, di permettere a noi di essere qui stamattina a picchiare sulla tastiera per&#0160;lanciare i nostri pensieri e i nostri tweet nel blogospazio. In mezzo, tra&#0160;il qui e ora e&#0160;il sistemino di perforazione che Lady Ada, appassionata di ricamo, scommesse sui cavalli&#0160;e matematica, inventò per fare meno fatica a lavorare con il telaietto nel suo salottino vittoriano, c&#39;è tutta la storia dei computer, dell&#39;Information technology e di altre immense cose di cui noi donne - che si sa, siamo minimaliste&#0160; per natura e use a&#0160;darci piccoli obbiettivi - non rivendichiamo la paternità, o meglio la maternità. <br />In effetti l&#39;altro grande merito di Ada Lovelace fu quello di aver capito&#0160;subito che i computer erano molto di più che una scatola per fare i conti, altra visione prettamente maschile e rivelatasi inesatta.<br />Il 24 marzo in Internet&#0160;è l&#39;Ada Lovelace day, giorno in cui su tutta la Rete blog, twitter, siti&#0160;si scrive, disegna, posta e&#0160;tweetta per attrarre l&#39;attenzione sul contributo mai abbastanza riconosciuto delle donne al progresso della scienza e della tecnologia. JobTalk c&#39;è. Il sito ufficiale&#0160;è <a href=\"http://findingada.com/\" target=\"_blank\">Findingada.com</a> che ha anche il suo bravo <a href=\"http://blog.findingada.com/\" target=\"_blank\">blog.</a> Lì si può sapere tutto di Ada, per esempio che scrisse programmi per Charles Babbage padre, riconosciutissimo invece,&#0160;delle macchine da elaborazione antenate del computer, e anche che fu proprio lei a&#0160;mettere giù la prima descrizione sensata di computer e di software.&#0160;&#0160;Su Twitter&#0160;&#0160;l&#39; hashtag&#0160;dell&#39;Ada Lovelace Day è &#0160;<a class=\"tweet-url hashtag\" href=\"http://www.typepad.com/search?q=%23ald10\" rel=\"nofollow\" title=\"#ald10\"><font color=\"#2276bb\">#ald10</font></a>&#0160;.<a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb49f970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: right\"></a> <a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb634970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: right\"><img alt=\"Computer-engineer-barbie\" class=\"asset asset-image at-xid-6a00e54eda81ae88330120a96eb634970b \" src=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb634970b-150wi\" style=\"MARGIN: 0px 0px 5px 5px; WIDTH: 150px\" /></a> <br />&#0160;In tono con la giornata, la notizia che in un sondaggio popolare che ha coinvolto mezzo&#0160;milione di votanti, <a href=\"http://jobtalk.blog.ilsole24ore.com/.a/6a00e54eda81ae88330120a96eb5b0970b-popup\" onclick=\"window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false\" style=\"FLOAT: left\"></a><a href=\"http://mashable.com/2010/03/09/computer-engineer-barbie/\" target=\"_blank\">sul nuovo futuro professionale della bambola Barbie </a>- &quot;labarbie&quot;per noi bambine del secolo scorso - molto consenso ma anche acceso dibattito ha suscitato la&#0160;proposta della Barbie programmatrice, o Coder Barbie, con il computer rosa, la scritta Barbie in codice binario sulla t shirt e gli occhialetti fluo come quelli della ministra Gelmini. Troppo gnocca e patinata per rappresentare le professioniste It vere,&#0160;è stata l&#39;obiezione. Troppo Barbie insomma. L&#39;argomento&#0160;con cui la corrente contrapposta, quella filo-life in plastic&#0160;is fantastic ribatte è che Ada, invece, l&#39;avrebbe apprezzata...Lo penso anch&#39;io.<br /><strong><em><font color=\"#ff0000\">SEGUI JOBTALK E JOB24.IT ANCHE SU TWITTER CON </font></em></strong><a href=\"http://twitter.com/24job\" target=\"_blank\"><font color=\"#810081\"><strong><em>24JOB</em></strong></font></a><br /></p>",
+         "textFormat" : "html",
+         "title" : "Il lato B / Grazie ad Ada Lovelace, che inventò l'informatica senza dirlo a nessuno..oggi su Internet è la sua festa",
+         "urlId" : "6a00e54eda81ae883301310fd5b369970c"
+      },
+      {
+         "author" : {
+            "aboutMe" : "Journalist and co-founder of 'Women's Views on News'",
+            "avatarLink" : {
+               "height" : 200,
+               "url" : "http://up5.typepad.com/6a010536f09b05970b01156fe37cdd970c-pi",
+               "urlTemplate" : "http://up5.typepad.com/6a010536f09b05970b01156fe37cdd970c-{spec}",
+               "width" : 200
+            },
+            "displayName" : "Alison Clarke",
+            "id" : "tag:api.typepad.com,2009:6p010536f09b05970b",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p010536f09b05970b.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p010536f09b05970b/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.womensviewsonnews.org/",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/1233052931s8796",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up5.typepad.com/6a010536f09b05970b01156fe37cdd970c-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up5.typepad.com/6a010536f09b05970b01156fe37cdd970c-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 200,
+                  "href" : "http://up5.typepad.com/6a010536f09b05970b01156fe37cdd970c-400wi",
+                  "rel" : "avatar",
+                  "width" : 200
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up5.typepad.com/6a010536f09b05970b01156fe37cdd970c-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p010536f09b05970b/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : "Essex, UK",
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "1233052931s8796",
+            "profilePageUrl" : "http://profile.typepad.com/1233052931s8796",
+            "urlId" : "6p010536f09b05970b"
+         },
+         "categories" : [
+            "World news"
+         ],
+         "commentCount" : 0,
+         "content" : "Ever heard of Ada Lovelace? No? Well, then you probably don&#39;t know that it&#39;s Ada Lovelace day today. Ada wrote the words for the first computer programmes for the Analytical Machine, a general purpose machine that was invented by Charles Babbage, way back in the 1800s. Today is a day to celebrate the achievements of women in technology and science. For more information, according to <a href=\"http://findingada.com/about/\" title=\"Celebrate Ada Lovelace day\">this</a> website.&#0160;",
+         "description" : "",
+         "embeddedImageLinks" : [],
+         "excerpt" : "Ever heard of Ada Lovelace? No? Well, then you probably don't know that it's Ada Lovelace day today. Ada wrote the words for the first computer programmes for the Analytical Machine, a general purpose machine that was invented by Charles...",
+         "favoriteCount" : 0,
+         "filename" : "celebrate-ada-lovelace-day",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a010536f09b05970b0120a96e795e970b",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a010536f09b05970b0120a96e795e970b/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a010536f09b05970b0120a96e795e970b/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://alisonclarke.typepad.com/womens_news/2010/03/celebrate-ada-lovelace-day.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a010536f09b05970b0120a96e795e970b.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://alisonclarke.typepad.com/womens_news/2010/03/celebrate-ada-lovelace-day.html",
+         "published" : "2010-03-24T08:52:05Z",
+         "renderedContent" : "Ever heard of Ada Lovelace? No? Well, then you probably don&#39;t know that it&#39;s Ada Lovelace day today. Ada wrote the words for the first computer programmes for the Analytical Machine, a general purpose machine that was invented by Charles Babbage, way back in the 1800s. Today is a day to celebrate the achievements of women in technology and science. For more information, according to <a href=\"http://findingada.com/about/\" title=\"Celebrate Ada Lovelace day\">this</a> website.&#0160;",
+         "textFormat" : "html",
+         "title" : "Celebrate Ada Lovelace day",
+         "urlId" : "6a010536f09b05970b0120a96e795e970b"
+      },
+      {
+         "author" : {
+            "aboutMe" : "I'm an artist and writer with a fizzy caffeine habit.",
+            "avatarLink" : {
+               "height" : 768,
+               "url" : "http://up4.typepad.com/6a00d8347262dc53ef012877a494fe970c-pi",
+               "urlTemplate" : "http://up4.typepad.com/6a00d8347262dc53ef012877a494fe970c-{spec}",
+               "width" : 576
+            },
+            "displayName" : "lccarson",
+            "id" : "tag:api.typepad.com,2009:6p00d8347262dc53ef",
+            "interests" : [
+               "collage",
+               "theatre",
+               "creativity",
+               "rabbits",
+               "figure skating",
+               "drawing",
+               "baseball",
+               "vision",
+               "sf",
+               "bridge",
+               "mixed media sculpture",
+               "bronze",
+               "kaleidoscopes & other optical toys",
+               "enrichment teaching",
+               "flipbooks"
+            ],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00d8347262dc53ef.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00d8347262dc53ef/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://profile.typepad.com/lccarson",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up4.typepad.com/6a00d8347262dc53ef012877a494fe970c-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up4.typepad.com/6a00d8347262dc53ef012877a494fe970c-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 533,
+                  "href" : "http://up4.typepad.com/6a00d8347262dc53ef012877a494fe970c-400wi",
+                  "rel" : "avatar",
+                  "width" : 400
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up4.typepad.com/6a00d8347262dc53ef012877a494fe970c-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00d8347262dc53ef/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : null,
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "lccarson",
+            "profilePageUrl" : "http://profile.typepad.com/lccarson",
+            "urlId" : "6p00d8347262dc53ef"
+         },
+         "categories" : [
+            "Hero worship",
+            "Science"
+         ],
+         "commentCount" : 0,
+         "content" : "Dr. Olivieri (http://www.uhnres.utoronto.ca/researchers/profile.php?lookup=4539) is a medical researcher who, upon spotting evidence in an ongoing drug trial that there were dangerous side effects, stopped the trial and informed patients of the risk. That&#39;s the medically ethical thing to do but she took career-threatening flack from the drug manufacturer, the university and her hospital... for years.<br />\r\n<br /><p>\r\nShe was vindicated by several investigations and has focused our attention on the ethical challenges of sponsored research and the importance of scientific integrity.This year she received the Scientific Freedom and Responsibility Award from the American Association for the Advancement of Science, as reported by the Canadian Association of University Teachers Bulletin (http://www.cautbulletin.ca/) this month.</p><p>Ada Lovelace Day (findingada.com) is an international day of blogging to \r\n\t\t\tcelebrate the achievements of women in technology and science.</p>",
+         "description" : "",
+         "embeddedImageLinks" : [],
+         "excerpt" : "Dr. Olivieri (http://www.uhnres.utoronto.ca/researchers/profile.php?lookup=4539) is a medical researcher who, upon spotting evidence in an ongoing drug trial that there were dangerous side effects, stopped the trial and informed patients of the risk. That's the medically ethical thing to do but she...",
+         "favoriteCount" : 0,
+         "filename" : "dr-nancy-olivieri-youre-my-ada-lovelace-day-honouree--dr-olivieri-httpwwwuhnresutorontocaresearchersprofilephp",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00d8347262dc53ef0120a96fc4da970b",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00d8347262dc53ef0120a96fc4da970b/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00d8347262dc53ef0120a96fc4da970b/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://lindateachesart.typepad.com/linda_teaches_art/2010/03/dr-nancy-olivieri-youre-my-ada-lovelace-day-honouree--dr-olivieri-httpwwwuhnresutorontocaresearchersprofilephp.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00d8347262dc53ef0120a96fc4da970b.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://lindateachesart.typepad.com/linda_teaches_art/2010/03/dr-nancy-olivieri-youre-my-ada-lovelace-day-honouree--dr-olivieri-httpwwwuhnresutorontocaresearchersprofilephp.html",
+         "published" : "2010-03-24T14:16:36Z",
+         "renderedContent" : "Dr. Olivieri (http://www.uhnres.utoronto.ca/researchers/profile.php?lookup=4539) is a medical researcher who, upon spotting evidence in an ongoing drug trial that there were dangerous side effects, stopped the trial and informed patients of the risk. That&#39;s the medically ethical thing to do but she took career-threatening flack from the drug manufacturer, the university and her hospital... for years.<br />\r\n<br /><p>\r\nShe was vindicated by several investigations and has focused our attention on the ethical challenges of sponsored research and the importance of scientific integrity.This year she received the Scientific Freedom and Responsibility Award from the American Association for the Advancement of Science, as reported by the Canadian Association of University Teachers Bulletin (http://www.cautbulletin.ca/) this month.</p><p>Ada Lovelace Day (findingada.com) is an international day of blogging to \r\n\t\t\tcelebrate the achievements of women in technology and science.</p>",
+         "textFormat" : "html",
+         "title" : "Dr. Nancy Olivieri, you're my Ada Lovelace Day honouree!",
+         "urlId" : "6a00d8347262dc53ef0120a96fc4da970b"
+      },
+      {
+         "author" : {
+            "aboutMe" : "",
+            "avatarLink" : {
+               "height" : 50,
+               "url" : "http://up2.typepad.com/6a00d834515f7269e200e54ff1a7248833-pi",
+               "urlTemplate" : "http://up2.typepad.com/6a00d834515f7269e200e54ff1a7248833-{spec}",
+               "width" : 50
+            },
+            "displayName" : "Alice",
+            "id" : "tag:api.typepad.com,2009:6p00d834515f7269e2",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00d834515f7269e2.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00d834515f7269e2/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.wonderlandblog.com",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/crystaltips",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up2.typepad.com/6a00d834515f7269e200e54ff1a7248833-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up2.typepad.com/6a00d834515f7269e200e54ff1a7248833-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00d834515f7269e2/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : null,
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "crystaltips",
+            "profilePageUrl" : "http://profile.typepad.com/crystaltips",
+            "urlId" : "6p00d834515f7269e2"
+         },
+         "categories" : [],
+         "commentCount" : 0,
+         "content" : "<p>It&#39;s <a href=\"http://findingada.com/about/\">Ada Lovelace Day</a>: the day we celebrate women in technology and science.</p><p>My post is about <a href=\"http://lookspring.co.uk/\">Margaret Robertson, videogames genius</a>. \r\nMargaret is yet to be topped as <strong>the person I know &quot;who knows most \r\nabout videogames&quot;</strong>. There is <em>nothing </em>you can throw at Margaret\r\n that she doesn&#39;t have an insightful, knowledgable, clever or funny \r\nanswer to. </p><p><a href=\"http://www.flickr.com/photos/matlocktest/3611772007/\" style=\"display: inline;\"><img alt=\"Margaret\" class=\"asset asset-image at-xid-6a00d834515f7269e20120a96ecb26970b \" src=\"http://www.wonderlandblog.com/.a/6a00d834515f7269e20120a96ecb26970b-500wi\" style=\"width: 240px; height: 240px;\" title=\"Margaret\" /></a>&#0160;</p><p>(This is Margaret, about to pound you in Werewolf - but you wouldn&#39;t know it...)</p>Margaret used to be <strong>editor </strong>of <a href=\"http://www.edge-online.com/\">EDGE</a> magazine, well-understood to be the best games magazine in the world. She&#39;s a <a href=\"http://www.offworld.com/one-more-go/\">journalist</a>, an analyst, a designer and a consultant. If you ask Margaret what she does, she often hesitates slightly, because she does <em>so much</em> within this huge field, and all of it <em>so well</em>: from games design itself, through to story architecture, troubleshooting, team design, strategy, business analysis, conference organising... you name it. She&#39;s also very modest.<br /><br />She&#39;s a regular fixture at <a href=\"http://www.gdconf.com\">GDC</a>, and her talks are always - rightly - packed. Don&#39;t miss those, is my advice. You can also catch her at Brit events like Game City, or Develop. She&#39;s the little Scottish lady with bunches, and a Bristolian accent (it&#39;s a feature, not a bug), usually found on a sofa surrounded by Famouses, hanging on her every word...<br /><p>We at Channel 4 buy a lot of her time in order to fulfil our educational remit, and our grand plans for <a href=\"http://www.gamesindustry.biz/articles/channel-4-education-continues-indie-gaming-agenda\">making amazing games that just happen to be good for you</a>. She&#39;s our <strong>secret weapon</strong>. And she doesn&#39;t get nearly enough credit for it. </p><p>So thank you Margaret, for everything you do for us, and for lending us your planet-sized brain. Thank you too for being an inspiration to all and any women considering, perhaps, a career in or around videogames. You&#39;re the greatest! </p>",
+         "description" : "",
+         "embeddedImageLinks" : [
+            {
+               "height" : 500,
+               "url" : "http://a6.typepad.com/6a00d834515f7269e20120a96ecb26970b-pi",
+               "urlTemplate" : "http://a6.typepad.com/6a00d834515f7269e20120a96ecb26970b-{spec}",
+               "width" : 500
+            }
+         ],
+         "excerpt" : "It's Ada Lovelace Day: the day we celebrate women in technology and science. My post is about Margaret Robertson, videogames genius. Margaret is yet to be topped as the person I know \"who knows most about videogames\". There is nothing...",
+         "favoriteCount" : 0,
+         "filename" : "ada-lovelace-day-margaret-robertson",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00d834515f7269e201310fd5cf77970c",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00d834515f7269e201310fd5cf77970c/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00d834515f7269e201310fd5cf77970c/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://www.wonderlandblog.com/wonderland/2010/03/ada-lovelace-day-margaret-robertson.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00d834515f7269e201310fd5cf77970c.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://www.wonderlandblog.com/wonderland/2010/03/ada-lovelace-day-margaret-robertson.html",
+         "published" : "2010-03-24T10:28:14Z",
+         "renderedContent" : "<p>It&#39;s <a href=\"http://findingada.com/about/\">Ada Lovelace Day</a>: the day we celebrate women in technology and science.</p><p>My post is about <a href=\"http://lookspring.co.uk/\">Margaret Robertson, videogames genius</a>. \r\nMargaret is yet to be topped as <strong>the person I know &quot;who knows most \r\nabout videogames&quot;</strong>. There is <em>nothing </em>you can throw at Margaret\r\n that she doesn&#39;t have an insightful, knowledgable, clever or funny \r\nanswer to. </p><p><a href=\"http://www.flickr.com/photos/matlocktest/3611772007/\" style=\"display: inline;\"><img alt=\"Margaret\" class=\"asset asset-image at-xid-6a00d834515f7269e20120a96ecb26970b \" src=\"http://www.wonderlandblog.com/.a/6a00d834515f7269e20120a96ecb26970b-500wi\" style=\"width: 240px; height: 240px;\" title=\"Margaret\" /></a>&#0160;</p><p>(This is Margaret, about to pound you in Werewolf - but you wouldn&#39;t know it...)</p>Margaret used to be <strong>editor </strong>of <a href=\"http://www.edge-online.com/\">EDGE</a> magazine, well-understood to be the best games magazine in the world. She&#39;s a <a href=\"http://www.offworld.com/one-more-go/\">journalist</a>, an analyst, a designer and a consultant. If you ask Margaret what she does, she often hesitates slightly, because she does <em>so much</em> within this huge field, and all of it <em>so well</em>: from games design itself, through to story architecture, troubleshooting, team design, strategy, business analysis, conference organising... you name it. She&#39;s also very modest.<br /><br />She&#39;s a regular fixture at <a href=\"http://www.gdconf.com\">GDC</a>, and her talks are always - rightly - packed. Don&#39;t miss those, is my advice. You can also catch her at Brit events like Game City, or Develop. She&#39;s the little Scottish lady with bunches, and a Bristolian accent (it&#39;s a feature, not a bug), usually found on a sofa surrounded by Famouses, hanging on her every word...<br /><p>We at Channel 4 buy a lot of her time in order to fulfil our educational remit, and our grand plans for <a href=\"http://www.gamesindustry.biz/articles/channel-4-education-continues-indie-gaming-agenda\">making amazing games that just happen to be good for you</a>. She&#39;s our <strong>secret weapon</strong>. And she doesn&#39;t get nearly enough credit for it. </p><p>So thank you Margaret, for everything you do for us, and for lending us your planet-sized brain. Thank you too for being an inspiration to all and any women considering, perhaps, a career in or around videogames. You&#39;re the greatest! </p>",
+         "textFormat" : "html",
+         "title" : "Ada Lovelace Day: Margaret Robertson",
+         "urlId" : "6a00d834515f7269e201310fd5cf77970c"
+      },
+      {
+         "author" : {
+            "aboutMe" : "Marketer. Mystery. Legend.",
+            "avatarLink" : {
+               "height" : 384,
+               "url" : "http://up0.typepad.com/6a00d83451d20869e201053650e298970b-pi",
+               "urlTemplate" : "http://up0.typepad.com/6a00d83451d20869e201053650e298970b-{spec}",
+               "width" : 404
+            },
+            "displayName" : "Kate Trgovac",
+            "id" : "tag:api.typepad.com,2009:6p00d83451d20869e2",
+            "interests" : [
+               "branding",
+               "new technology",
+               "e-marketing",
+               "user experience design",
+               "information design",
+               "reading",
+               "blogging",
+               "social media",
+               "information architecture",
+               "ritual theory"
+            ],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00d83451d20869e2.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00d83451d20869e2/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.mynameiskate.ca",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/ktrgovac",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up0.typepad.com/6a00d83451d20869e201053650e298970b-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up0.typepad.com/6a00d83451d20869e201053650e298970b-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 380,
+                  "href" : "http://up0.typepad.com/6a00d83451d20869e201053650e298970b-400wi",
+                  "rel" : "avatar",
+                  "width" : 400
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up0.typepad.com/6a00d83451d20869e201053650e298970b-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00d83451d20869e2/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : "Vancouver, Canada",
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "ktrgovac",
+            "profilePageUrl" : "http://profile.typepad.com/ktrgovac",
+            "urlId" : "6p00d83451d20869e2"
+         },
+         "categories" : [
+            "Innovation & Imagination",
+            "Technology & the Internet"
+         ],
+         "commentCount" : 0,
+         "content" : "<p>I<a href=\"http://findingada.com/about/\">t&#39;s Ada Lovelace Day! &#0160;Time to celebrate women in technology</a>. &#0160;<a href=\"http://www.mynameiskate.ca/2009/03/celebrating-women-in-technology-ada-lovelace-day.html\">Last year I wrote about some local women in tech as well as a personal hero of mine</a>. &#0160; This year, I&#39;ve selected three of my favourite talks by science and tech-y women at TED.</p>\r\n\r\n<p></p>\r\n\r\n<p><strong><span style=\"font-size: 14px; \">Jill Tarter\r\n\r\n</span></strong></p>\r\n\r\n<p></p><blockquote>Perspective is a very powerful thing. Perspectives can change. Perspectives can be altered. From my perspective, we live on a fragile island of life, in a universe of possibilities. For many millenia, humans have been on a journey to find answers, answers to questions about naturalism and transcendence, about who we are and why we are, and of course, who else might be out there. Is it really just us? Are we alone in this vast universe of energy and matter and chemistry and physics? Well, if we are, it&#39;s an awful waste of space. But, what if we&#39;re not?</blockquote><p></p>\r\n\r\n<p></p>\r\n\r\n<ul>\r\n<li><a href=\"http://www.seti.org/Page.aspx?pid=1366\">Jill at Seti</a></li>\r\n</ul>\r\n<p></p>\r\n\r\n<p style=\"text-align:center;\"><object height=\"326\" width=\"446\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"bgColor\" value=\"#ffffff\" /> <param name=\"flashvars\" value=\"vu=http://video.ted.com/talks/JillTarter_2009-stream-Prize_xxlow.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JillTarter-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=468&amp;introDuration=25000&amp;adDuration=0&amp;postAdDuration=0&amp;adKeys=talk=jill_tarter_s_call_to_join_the_seti_search;year=2009;theme=technology_history_and_destiny;theme=speaking_at_ted2009;theme=peering_into_space;theme=bold_predictions_stern_warnings;theme=ted_prize_winners;theme=to_boldly_go;event=TED2009;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\" /><embed allowfullscreen=\"true\" bgcolor=\"#ffffff\" flashvars=\"vu=http://video.ted.com/talks/JillTarter_2009-stream-Prize_xxlow.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JillTarter-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=468&amp;introDuration=25000&amp;adDuration=0&amp;postAdDuration=0&amp;adKeys=talk=jill_tarter_s_call_to_join_the_seti_search;year=2009;theme=technology_history_and_destiny;theme=speaking_at_ted2009;theme=peering_into_space;theme=bold_predictions_stern_warnings;theme=ted_prize_winners;theme=to_boldly_go;event=TED2009;\" height=\"326\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" type=\"application/x-shockwave-flash\" width=\"446\" wmode=\"transparent\" /></object>\r\n</p>\r\n\r\n\r\n\r\n<p><span style=\"font-size: 14px; \"><strong>Jane McGonigal\r\n\r\n</strong></span></p>\r\n\r\n<p></p><blockquote>In fact, I believe that if we want to survive the next century on this planet, we need to increase that total dramatically. I&#39;ve calculated the total we need at 21 billion hours of game play every week. So, that&#39;s probably a bit of a counterintuitive idea, so, I&#39;ll say it again, let it sink in. If we want to solve problems like hunger, poverty, climate change, global conflict, obesity, I believe that we need to aspire to play games online for at least 21 billion hours a week, by the end of the next decade. </blockquote>\r\n\r\n<p></p>\r\n\r\n<p></p>\r\n\r\n<ul>\r\n<li><a href=\"http://www.iftf.org/\">Institute for the Future</a></li>\r\n<li><a href=\"http://twitter.com/AvantGame\">Jane on Twitter - @AvantGame</a></li>\r\n<li><a href=\"http://www.avantgame.com/\">Jane&#39;s Homepage - AvantGame</a></li>\r\n</ul>\r\n<p></p>\r\n\r\n<p style=\"text-align:center;\"><object height=\"326\" width=\"446\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"bgColor\" value=\"#ffffff\" /> <param name=\"flashvars\" value=\"vu=http://video.ted.com/talks/dynamic/JaneMcGonigal_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JaneMcGonigal-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=799&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=jane_mcgonigal_gaming_can_make_a_better_world;year=2010;theme=what_s_next_in_tech;theme=design_like_you_give_a_damn;theme=media_that_matters;theme=art_unusual;theme=the_rise_of_collaboration;theme=a_taste_of_ted2010;theme=new_on_ted_com;event=TED2010;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\" /><embed allowfullscreen=\"true\" bgcolor=\"#ffffff\" flashvars=\"vu=http://video.ted.com/talks/dynamic/JaneMcGonigal_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JaneMcGonigal-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=799&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=jane_mcgonigal_gaming_can_make_a_better_world;year=2010;theme=what_s_next_in_tech;theme=design_like_you_give_a_damn;theme=media_that_matters;theme=art_unusual;theme=the_rise_of_collaboration;theme=a_taste_of_ted2010;theme=new_on_ted_com;event=TED2010;\" height=\"326\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" type=\"application/x-shockwave-flash\" width=\"446\" wmode=\"transparent\" /></object></p>\r\n\r\n\r\n\r\n<p><span style=\"font-size: 14px; \"><strong>Nalini Nadkarni\r\n\r\n</strong></span></p>\r\n\r\n<p></p><blockquote>Canopy-dwellers are not just insignificant bits of green up high in the canopy that Tarzan and Jane were interested in but rather that they foster biodiversity contribute to ecosystem nutrient cycles, and they also help to keep our global climate stable. Up in the canopy, if you were sitting next to me, if you turned around from those primary forest ecosystems, you would also see scenes like this. Scenes of forest destruction, forest harvesting and forest fragmentation, thereby making that intact tapestry of the canopy unable to function in the marvelous ways that it has when it is not disturbed by humans.</blockquote>\r\n\r\n<p></p>\r\n\r\n<p></p>\r\n\r\n<ul>\r\n<li><a href=\"http://www.nalininadkarni.com/\">http://www.nalininadkarni.com/</a></li>\r\n</ul>\r\n<p></p>\r\n\r\n<p style=\"text-align:center;\"><object height=\"326\" width=\"446\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"bgColor\" value=\"#ffffff\" /> <param name=\"flashvars\" value=\"vu=http://video.ted.com/talks/dynamic/NaliniNadkarni_2009-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/NaliniNadkarni-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=476&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=nalini_nadkani_on_conserving_the_canopy;year=2009;theme=the_rise_of_collaboration;theme=inspired_by_nature;theme=a_greener_future;event=TED2009;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\" /><embed allowfullscreen=\"true\" bgcolor=\"#ffffff\" flashvars=\"vu=http://video.ted.com/talks/dynamic/NaliniNadkarni_2009-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/NaliniNadkarni-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=476&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=nalini_nadkani_on_conserving_the_canopy;year=2009;theme=the_rise_of_collaboration;theme=inspired_by_nature;theme=a_greener_future;event=TED2009;\" height=\"326\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" type=\"application/x-shockwave-flash\" width=\"446\" wmode=\"transparent\" /></object></p>",
+         "description" : "",
+         "embeddedImageLinks" : [],
+         "excerpt" : "It's Ada Lovelace Day! Time to celebrate women in technology. Last year I wrote about some local women in tech as well as a personal hero of mine. This year, I've selected three of my favourite talks by science and...",
+         "favoriteCount" : 0,
+         "filename" : "celebrating-ada-lovelace-day-three-talks-by-amazing-women",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00d83451d20869e201310fd36007970c",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00d83451d20869e201310fd36007970c/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00d83451d20869e201310fd36007970c/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://www.mynameiskate.ca/2010/03/celebrating-ada-lovelace-day-three-talks-by-amazing-women.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00d83451d20869e201310fd36007970c.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://www.mynameiskate.ca/2010/03/celebrating-ada-lovelace-day-three-talks-by-amazing-women.html",
+         "published" : "2010-03-24T00:36:23Z",
+         "renderedContent" : "<p>I<a href=\"http://findingada.com/about/\">t&#39;s Ada Lovelace Day! &#0160;Time to celebrate women in technology</a>. &#0160;<a href=\"http://www.mynameiskate.ca/2009/03/celebrating-women-in-technology-ada-lovelace-day.html\">Last year I wrote about some local women in tech as well as a personal hero of mine</a>. &#0160; This year, I&#39;ve selected three of my favourite talks by science and tech-y women at TED.</p>\r\n\r\n<p></p>\r\n\r\n<p><strong><span style=\"font-size: 14px; \">Jill Tarter\r\n\r\n</span></strong></p>\r\n\r\n<p></p><blockquote>Perspective is a very powerful thing. Perspectives can change. Perspectives can be altered. From my perspective, we live on a fragile island of life, in a universe of possibilities. For many millenia, humans have been on a journey to find answers, answers to questions about naturalism and transcendence, about who we are and why we are, and of course, who else might be out there. Is it really just us? Are we alone in this vast universe of energy and matter and chemistry and physics? Well, if we are, it&#39;s an awful waste of space. But, what if we&#39;re not?</blockquote><p></p>\r\n\r\n<p></p>\r\n\r\n<ul>\r\n<li><a href=\"http://www.seti.org/Page.aspx?pid=1366\">Jill at Seti</a></li>\r\n</ul>\r\n<p></p>\r\n\r\n<p style=\"text-align:center;\"><object height=\"326\" width=\"446\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"bgColor\" value=\"#ffffff\" /> <param name=\"flashvars\" value=\"vu=http://video.ted.com/talks/JillTarter_2009-stream-Prize_xxlow.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JillTarter-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=468&amp;introDuration=25000&amp;adDuration=0&amp;postAdDuration=0&amp;adKeys=talk=jill_tarter_s_call_to_join_the_seti_search;year=2009;theme=technology_history_and_destiny;theme=speaking_at_ted2009;theme=peering_into_space;theme=bold_predictions_stern_warnings;theme=ted_prize_winners;theme=to_boldly_go;event=TED2009;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\" /><embed allowfullscreen=\"true\" bgcolor=\"#ffffff\" flashvars=\"vu=http://video.ted.com/talks/JillTarter_2009-stream-Prize_xxlow.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JillTarter-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=468&amp;introDuration=25000&amp;adDuration=0&amp;postAdDuration=0&amp;adKeys=talk=jill_tarter_s_call_to_join_the_seti_search;year=2009;theme=technology_history_and_destiny;theme=speaking_at_ted2009;theme=peering_into_space;theme=bold_predictions_stern_warnings;theme=ted_prize_winners;theme=to_boldly_go;event=TED2009;\" height=\"326\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" type=\"application/x-shockwave-flash\" width=\"446\" wmode=\"transparent\" /></object>\r\n</p>\r\n\r\n\r\n\r\n<p><span style=\"font-size: 14px; \"><strong>Jane McGonigal\r\n\r\n</strong></span></p>\r\n\r\n<p></p><blockquote>In fact, I believe that if we want to survive the next century on this planet, we need to increase that total dramatically. I&#39;ve calculated the total we need at 21 billion hours of game play every week. So, that&#39;s probably a bit of a counterintuitive idea, so, I&#39;ll say it again, let it sink in. If we want to solve problems like hunger, poverty, climate change, global conflict, obesity, I believe that we need to aspire to play games online for at least 21 billion hours a week, by the end of the next decade. </blockquote>\r\n\r\n<p></p>\r\n\r\n<p></p>\r\n\r\n<ul>\r\n<li><a href=\"http://www.iftf.org/\">Institute for the Future</a></li>\r\n<li><a href=\"http://twitter.com/AvantGame\">Jane on Twitter - @AvantGame</a></li>\r\n<li><a href=\"http://www.avantgame.com/\">Jane&#39;s Homepage - AvantGame</a></li>\r\n</ul>\r\n<p></p>\r\n\r\n<p style=\"text-align:center;\"><object height=\"326\" width=\"446\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"bgColor\" value=\"#ffffff\" /> <param name=\"flashvars\" value=\"vu=http://video.ted.com/talks/dynamic/JaneMcGonigal_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JaneMcGonigal-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=799&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=jane_mcgonigal_gaming_can_make_a_better_world;year=2010;theme=what_s_next_in_tech;theme=design_like_you_give_a_damn;theme=media_that_matters;theme=art_unusual;theme=the_rise_of_collaboration;theme=a_taste_of_ted2010;theme=new_on_ted_com;event=TED2010;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\" /><embed allowfullscreen=\"true\" bgcolor=\"#ffffff\" flashvars=\"vu=http://video.ted.com/talks/dynamic/JaneMcGonigal_2010-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JaneMcGonigal-2010.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=799&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=jane_mcgonigal_gaming_can_make_a_better_world;year=2010;theme=what_s_next_in_tech;theme=design_like_you_give_a_damn;theme=media_that_matters;theme=art_unusual;theme=the_rise_of_collaboration;theme=a_taste_of_ted2010;theme=new_on_ted_com;event=TED2010;\" height=\"326\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" type=\"application/x-shockwave-flash\" width=\"446\" wmode=\"transparent\" /></object></p>\r\n\r\n\r\n\r\n<p><span style=\"font-size: 14px; \"><strong>Nalini Nadkarni\r\n\r\n</strong></span></p>\r\n\r\n<p></p><blockquote>Canopy-dwellers are not just insignificant bits of green up high in the canopy that Tarzan and Jane were interested in but rather that they foster biodiversity contribute to ecosystem nutrient cycles, and they also help to keep our global climate stable. Up in the canopy, if you were sitting next to me, if you turned around from those primary forest ecosystems, you would also see scenes like this. Scenes of forest destruction, forest harvesting and forest fragmentation, thereby making that intact tapestry of the canopy unable to function in the marvelous ways that it has when it is not disturbed by humans.</blockquote>\r\n\r\n<p></p>\r\n\r\n<p></p>\r\n\r\n<ul>\r\n<li><a href=\"http://www.nalininadkarni.com/\">http://www.nalininadkarni.com/</a></li>\r\n</ul>\r\n<p></p>\r\n\r\n<p style=\"text-align:center;\"><object height=\"326\" width=\"446\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" /><param name=\"allowFullScreen\" value=\"true\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"bgColor\" value=\"#ffffff\" /> <param name=\"flashvars\" value=\"vu=http://video.ted.com/talks/dynamic/NaliniNadkarni_2009-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/NaliniNadkarni-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=476&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=nalini_nadkani_on_conserving_the_canopy;year=2009;theme=the_rise_of_collaboration;theme=inspired_by_nature;theme=a_greener_future;event=TED2009;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\" /><embed allowfullscreen=\"true\" bgcolor=\"#ffffff\" flashvars=\"vu=http://video.ted.com/talks/dynamic/NaliniNadkarni_2009-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/NaliniNadkarni-2009.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=476&amp;introDuration=16500&amp;adDuration=4000&amp;postAdDuration=2000&amp;adKeys=talk=nalini_nadkani_on_conserving_the_canopy;year=2009;theme=the_rise_of_collaboration;theme=inspired_by_nature;theme=a_greener_future;event=TED2009;\" height=\"326\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" type=\"application/x-shockwave-flash\" width=\"446\" wmode=\"transparent\" /></object></p>",
+         "textFormat" : "html",
+         "title" : "Celebrating Ada Lovelace Day ... Three Talks by Amazing Women",
+         "urlId" : "6a00d83451d20869e201310fd36007970c"
+      },
+      {
+         "author" : {
+            "aboutMe" : null,
+            "avatarLink" : {
+               "height" : 403,
+               "url" : "http://up1.typepad.com/6a00e54f09af61883401053713df75970b-pi",
+               "urlTemplate" : "http://up1.typepad.com/6a00e54f09af61883401053713df75970b-{spec}",
+               "width" : 407
+            },
+            "displayName" : "Robin Houghton",
+            "id" : "tag:api.typepad.com,2009:6p00e54f09af618834",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00e54f09af618834.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00e54f09af618834/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.eggblogg.co.uk",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/eggboxmarketing",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up1.typepad.com/6a00e54f09af61883401053713df75970b-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up1.typepad.com/6a00e54f09af61883401053713df75970b-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 396,
+                  "href" : "http://up1.typepad.com/6a00e54f09af61883401053713df75970b-400wi",
+                  "rel" : "avatar",
+                  "width" : 400
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up1.typepad.com/6a00e54f09af61883401053713df75970b-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00e54f09af618834/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : "Lewes, East Sussex, UK",
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "eggboxmarketing",
+            "profilePageUrl" : "http://profile.typepad.com/eggboxmarketing",
+            "urlId" : "6p00e54f09af618834"
+         },
+         "categories" : [
+            "Current Affairs",
+            "Science",
+            "Thoughts & ideas",
+            "Web/Tech"
+         ],
+         "commentCount" : 0,
+         "content" : "<p>Today is <a href=\"http://findingada.com/\" target=\"_blank\" title=\"Ada Lovelace Day\">Ada Lovelace Day</a>, when bloggers worldwide are invited to write about a woman in technology or science who has inspired them. It&#39;s a small way of celebrating the many women who have shaped our world, often unseen and unacknowledged.</p>\r\n\r\n<p><strong><img align=\"left\" alt=\"Grace Murray Hopper\" border=\"0\" class=\"asset asset-image at-xid-6a00e54f09af6188340120a96e9c25970b \" src=\"http://eggboxmarketing.typepad.com/.a/6a00e54f09af6188340120a96e9c25970b-800wi\" style=\"margin-right: 10px;\" title=\"Grace Murray Hopper\" /> <br /> The first of my women heroes</strong> is <a href=\"http://en.wikipedia.org/wiki/Grace_Hopper\" target=\"_blank\" title=\"Grace Murray Hopper on Wikipedia\">Grace Murray Hopper</a> (1906 - 1992), who has perhaps had more publicity lately than when she was alive. An American US naval officer (she retired as a Commander and accrued many honours and distinctions over the years), Grace is credited with developing COBOL, one of the first programming languages that was closer to English than to machine code. When you think about it, that was the first step towards making computing more accessible, taking it from the lab to the living room, and at a time when for women to be successful in their field they had to be exceptional. (Some might argue that&#39;s still the case to a certain extent.) </p>\r\n\r\n<p>I first came across Grace Hopper when I was doing my Digital Media MA in 2000, when I had no idea there were female pioneers in computing, despite having studied computing and artificial intelligence at university in the 1980s. (Then again, I&#39;d never heard of <a href=\"http://www.theatlantic.com/magazine/archive/1969/12/as-we-may-think/3881/\" target=\"_blank\" title=\"Vannevar Bush: As we may think\">Vannevar Bush</a>, either, so I can&#39;t put that down to sexism.)</p>\r\n\r\n<p><strong>Woman hero number two</strong> is a personal one - my maths teacher Mrs Ward (funny how I never knew her first name). She had such a relaxed manner, and the gift of making pure maths seem very natural. Solving a quadratic equation became an absorbing task, and lessons passed so quickly I wondered where the time had gone. </p>\r\n\r\n<p>I think Mrs Ward stimulated in me the joy of intellectual pursuit - giving yourself the time, space and quiet to think, allowing your mind to go wherever it wishes. To this day, to spend time in quiet work still feels to me like the ultimate indulgence.</p>\r\n\r\n<p></p>",
+         "description" : "",
+         "embeddedImageLinks" : [
+            {
+               "height" : 259,
+               "url" : "http://a5.typepad.com/6a00e54f09af6188340120a96e9c25970b-pi",
+               "urlTemplate" : "http://a5.typepad.com/6a00e54f09af6188340120a96e9c25970b-{spec}",
+               "width" : 172
+            }
+         ],
+         "excerpt" : "Today is Ada Lovelace Day, when bloggers worldwide are invited to write about a woman in technology or science who has inspired them. It's a small way of celebrating the many women who have shaped our world, often unseen and...",
+         "favoriteCount" : 0,
+         "filename" : "two-heroes-for-ada-lovelace-day",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00e54f09af6188340120a96e9e39970b",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00e54f09af6188340120a96e9e39970b/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00e54f09af6188340120a96e9e39970b/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://www.eggblogg.co.uk/2010/03/two-heroes-for-ada-lovelace-day.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00e54f09af6188340120a96e9e39970b.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://www.eggblogg.co.uk/2010/03/two-heroes-for-ada-lovelace-day.html",
+         "published" : "2010-03-24T09:34:49Z",
+         "renderedContent" : "<p>Today is <a href=\"http://findingada.com/\" target=\"_blank\" title=\"Ada Lovelace Day\">Ada Lovelace Day</a>, when bloggers worldwide are invited to write about a woman in technology or science who has inspired them. It&#39;s a small way of celebrating the many women who have shaped our world, often unseen and unacknowledged.</p>\r\n\r\n<p><strong><img align=\"left\" alt=\"Grace Murray Hopper\" border=\"0\" class=\"asset asset-image at-xid-6a00e54f09af6188340120a96e9c25970b \" src=\"http://eggboxmarketing.typepad.com/.a/6a00e54f09af6188340120a96e9c25970b-800wi\" style=\"margin-right: 10px;\" title=\"Grace Murray Hopper\" /> <br /> The first of my women heroes</strong> is <a href=\"http://en.wikipedia.org/wiki/Grace_Hopper\" target=\"_blank\" title=\"Grace Murray Hopper on Wikipedia\">Grace Murray Hopper</a> (1906 - 1992), who has perhaps had more publicity lately than when she was alive. An American US naval officer (she retired as a Commander and accrued many honours and distinctions over the years), Grace is credited with developing COBOL, one of the first programming languages that was closer to English than to machine code. When you think about it, that was the first step towards making computing more accessible, taking it from the lab to the living room, and at a time when for women to be successful in their field they had to be exceptional. (Some might argue that&#39;s still the case to a certain extent.) </p>\r\n\r\n<p>I first came across Grace Hopper when I was doing my Digital Media MA in 2000, when I had no idea there were female pioneers in computing, despite having studied computing and artificial intelligence at university in the 1980s. (Then again, I&#39;d never heard of <a href=\"http://www.theatlantic.com/magazine/archive/1969/12/as-we-may-think/3881/\" target=\"_blank\" title=\"Vannevar Bush: As we may think\">Vannevar Bush</a>, either, so I can&#39;t put that down to sexism.)</p>\r\n\r\n<p><strong>Woman hero number two</strong> is a personal one - my maths teacher Mrs Ward (funny how I never knew her first name). She had such a relaxed manner, and the gift of making pure maths seem very natural. Solving a quadratic equation became an absorbing task, and lessons passed so quickly I wondered where the time had gone. </p>\r\n\r\n<p>I think Mrs Ward stimulated in me the joy of intellectual pursuit - giving yourself the time, space and quiet to think, allowing your mind to go wherever it wishes. To this day, to spend time in quiet work still feels to me like the ultimate indulgence.</p>\r\n\r\n<p></p>",
+         "textFormat" : "html",
+         "title" : "Two heroes for Ada Lovelace Day",
+         "urlId" : "6a00e54f09af6188340120a96e9e39970b"
+      },
+      {
+         "author" : {
+            "aboutMe" : null,
+            "avatarLink" : {
+               "height" : 250,
+               "url" : "http://static.typepad.com/.shared:v48.08:typepad:en_us/default-userpics/14-250si.gif",
+               "urlTemplate" : "http://static.typepad.com/.shared:v48.08:typepad:en_us/default-userpics/14-{spec}.gif",
+               "width" : 250
+            },
+            "displayName" : "Mindy",
+            "id" : "tag:api.typepad.com,2009:6p01287736ad4e970c",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p01287736ad4e970c.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p01287736ad4e970c/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://profile.typepad.com/mindy1",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://static.typepad.com/.shared:v48.08:typepad:en_us/default-userpics/14-50si.gif",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://static.typepad.com/.shared:v48.08:typepad:en_us/default-userpics/14-20si.gif",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 400,
+                  "href" : "http://static.typepad.com/.shared:v48.08:typepad:en_us/default-userpics/14-400wi.gif",
+                  "rel" : "avatar",
+                  "width" : 400
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://static.typepad.com/.shared:v48.08:typepad:en_us/default-userpics/14-120si.gif",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p01287736ad4e970c/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : null,
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "mindy1",
+            "profilePageUrl" : "http://profile.typepad.com/mindy1",
+            "urlId" : "6p01287736ad4e970c"
+         },
+         "categories" : [],
+         "commentCount" : 0,
+         "content" : "To me Ada Lovelace Day is about taking a moment to celebrate the pioneers the women whose efforts contributed to the fact that though we still have so... <a href='http://bit.ly/9ehAQU'>http://bit.ly/9ehAQU</a>",
+         "description" : null,
+         "embeddedImageLinks" : [],
+         "excerpt" : "To me Ada Lovelace Day is about taking a moment to celebrate the pioneers the women whose efforts contributed to the fact that though we still have so... http://bit.ly/9ehAQU",
+         "favoriteCount" : 0,
+         "filename" : "ada-lovelace-day-quiz-how-do-you-measure-up",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a01287736ad4e970c01310fd5929b970c",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a01287736ad4e970c01310fd5929b970c/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a01287736ad4e970c01310fd5929b970c/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://newslightning.typepad.com/blog/2010/03/ada-lovelace-day-quiz-how-do-you-measure-up.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a01287736ad4e970c01310fd5929b970c.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://newslightning.typepad.com/blog/2010/03/ada-lovelace-day-quiz-how-do-you-measure-up.html",
+         "published" : "2010-03-24T09:27:40Z",
+         "renderedContent" : "To me Ada Lovelace Day is about taking a moment to celebrate the pioneers the women whose efforts contributed to the fact that though we still have so... <a href='http://bit.ly/9ehAQU'>http://bit.ly/9ehAQU</a>",
+         "textFormat" : "html",
+         "title" : "Ada Lovelace Day quiz. How do you measure up?",
+         "urlId" : "6a01287736ad4e970c01310fd5929b970c"
+      },
+      {
+         "author" : {
+            "aboutMe" : "",
+            "avatarLink" : {
+               "height" : 131,
+               "url" : "http://up7.typepad.com/6a00d8341c887753ef00e55007db7c8834-pi",
+               "urlTemplate" : "http://up7.typepad.com/6a00d8341c887753ef00e55007db7c8834-{spec}",
+               "width" : 150
+            },
+            "displayName" : "Jane Hart",
+            "id" : "tag:api.typepad.com,2009:6p00d8341c887753ef",
+            "interests" : [],
+            "links" : [
+               {
+                  "allowedMethods" : [
+                     "GET"
+                  ],
+                  "href" : "http://api.typepad.com/users/6p00d8341c887753ef.json",
+                  "rel" : "self",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://api.typepad.com/users/6p00d8341c887753ef/elsewhere-accounts.json",
+                  "rel" : "elsewhere-accounts",
+                  "type" : "application/json"
+               },
+               {
+                  "href" : "http://www.C4LPT.co.uk",
+                  "rel" : "homepage",
+                  "type" : "text/html"
+               },
+               {
+                  "href" : "http://profile.typepad.com/janehart",
+                  "rel" : "alternate",
+                  "type" : "text/html"
+               },
+               {
+                  "height" : 50,
+                  "href" : "http://up7.typepad.com/6a00d8341c887753ef00e55007db7c8834-50si",
+                  "rel" : "avatar",
+                  "width" : 50
+               },
+               {
+                  "height" : 20,
+                  "href" : "http://up7.typepad.com/6a00d8341c887753ef00e55007db7c8834-20si",
+                  "rel" : "avatar",
+                  "width" : 20
+               },
+               {
+                  "height" : 131,
+                  "href" : "http://up7.typepad.com/6a00d8341c887753ef00e55007db7c8834-400wi",
+                  "rel" : "avatar",
+                  "width" : 150
+               },
+               {
+                  "height" : 120,
+                  "href" : "http://up7.typepad.com/6a00d8341c887753ef00e55007db7c8834-120si",
+                  "rel" : "avatar",
+                  "width" : 120
+               },
+               {
+                  "height" : 125,
+                  "href" : "http://profile.typepad.com/services/embed/profile/6p00d8341c887753ef/follow_module",
+                  "rel" : "follow-frame-content",
+                  "type" : "text/html",
+                  "width" : 300
+               }
+            ],
+            "location" : null,
+            "objectTypes" : [
+               "tag:api.typepad.com,2009:User"
+            ],
+            "preferredUsername" : "janehart",
+            "profilePageUrl" : "http://profile.typepad.com/janehart",
+            "urlId" : "6p00d8341c887753ef"
+         },
+         "categories" : [
+            "Blogs"
+         ],
+         "commentCount" : 0,
+         "content" : "<p>Today is Ada Lovelace Day<strong>.<br /></strong></p>\r\n\r\n<p><strong>Who was Ada Lovelace?</strong></p>\r\n\r\n<img align=\"left\" hspace=\"5\" src=\"http://c4lpt.co.uk/images/adal.jpg\" vspace=\"5\" /><p>Ada Lovelace (1815-1852) was one of the world’s first computer programmers, and one \r\nof the first people to see computers as more than just a machine for \r\ndoing sums. She wrote programmes for Charles Babbage’s Analytical \r\nEngine, a general-purpose computing machine, despite the fact that it \r\nwas never built. She also wrote the very first description of a computer\r\n and of software.</p>\r\n\r\n<p><strong>What is Ada Lovelace Day?</strong></p>\r\n\r\n<p>It is an <a href=\"http://findingada.com/\" target=\"_blank\">international day of blogging</a> to\r\n\t\t\tcelebrate the achievements of women in technology and science.&#0160; My blogging tribute today goes to Mary Somerville.</p>\r\n\r\n<p><strong>Who was Mary Somerville?</strong></p>\r\n\r\n<img align=\"right\" hspace=\"5\" src=\"http://c4lpt.co.uk/images/marys.gif\" vspace=\"5\" /><p>Mary Fairfax Somerville<strong> </strong>was born in 1780 in Scotland.&#0160; She was a&#0160;\r\n science writer and polymath and, as <a href=\"http://en.wikipedia.org/wiki/Mary_Somerville\" target=\"_blank\">Wikipedia</a> puts it, was working &quot;<em>at a time when women&#39;s participation in science was discouraged</em>&quot;.&#0160; </p>\r\n\r\n<p>Here is a summary of her life and work using quotes from the Wikipedia entry: </p>\r\n\r\n<blockquote><p><em>&quot;She \r\nstudied mathematics\r\n and astronomy,\r\n and was the second woman scientist to receive recognition in the United\r\n Kingdom after Caroline Herschel.</em></p>\r\n\r\n<p><em>Having been requested by Lord Brougham to translate for the Society for the \r\nDiffusion of Useful Knowledge the </em><em>Mécanique Céleste of \r\nLaplace, she greatly popularized its form, and its publication in 1831, \r\nunder the title of </em><em>The Mechanism of the Heavens, at once made her\r\n famous. </em></p>\r\n\r\n<p><em>Her other works are the </em><em>On the Connexion of the Physical Sciences\r\n (1834), </em><em>Physical Geography</em> (1848), and <em>Molecular and \r\nMicroscopic Science (1869). In 1835, she and Caroline Herschel \r\nbecame the first women members of the Royal Astronomical Society.</em></p>\r\n\r\n<p><em>Much of the popularity of her writings was due to her clear and crisp \r\nstyle and the underlying enthusiasm for her subject which pervaded them.</em></p>\r\n\r\n<p><em>She also invented the commonly used variables from algeb</em><em>raic maths.</em></p>\r\n\r\n\r\n\r\n</blockquote>\r\n\r\n<p>Mary Somerville died in 1872 (in Naples in Italy) at the grand old age of 91, unlike poor Ada who died at 36<em>.&#0160; <br /></em></p>\r\n\r\n<p>She was an intriguing and inspiring lady; and Somerville College at Oxford University was \r\nnamed after her. As it turns out I have also been surprised to find out that there are some personal connections too! </p>",
+         "description" : "",
+         "embeddedImageLinks" : [],
+         "excerpt" : "Today is Ada Lovelace Day. Who was Ada Lovelace? Ada Lovelace (1815-1852) was one of the world’s first computer programmers, and one of the first people to see computers as more than just a machine for doing sums. She wrote programmes for Charles Babbage’s Analytical Engine, a general-purpose computing machine, despite the fact that it was never built. She also wrote the very first description of a computer and of software. What is Ada Lovelace Day? It is an international...",
+         "favoriteCount" : 0,
+         "filename" : "ada",
+         "groups" : [],
+         "id" : "tag:api.typepad.com,2009:6a00d8341c887753ef01310fd1261e970c",
+         "links" : [
+            {
+               "href" : "http://api.typepad.com/assets/6a00d8341c887753ef01310fd1261e970c/favorites.json",
+               "rel" : "favorites",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://api.typepad.com/assets/6a00d8341c887753ef01310fd1261e970c/comments.json",
+               "rel" : "replies",
+               "total" : 0,
+               "type" : "application/json"
+            },
+            {
+               "href" : "http://janeknight.typepad.com/pick/2010/03/ada.html",
+               "rel" : "alternate",
+               "type" : "text/html"
+            },
+            {
+               "allowedMethods" : [
+                  "GET",
+                  "HEAD",
+                  "OPTIONS"
+               ],
+               "href" : "http://api.typepad.com/assets/6a00d8341c887753ef01310fd1261e970c.json",
+               "rel" : "self",
+               "type" : "application/json"
+            }
+         ],
+         "objectTypes" : [
+            "tag:api.typepad.com,2009:Post"
+         ],
+         "permalinkUrl" : "http://janeknight.typepad.com/pick/2010/03/ada.html",
+         "published" : "2010-03-23T17:07:56Z",
+         "renderedContent" : "<p>Today is Ada Lovelace Day<strong>.<br /></strong></p>\r\n\r\n<p><strong>Who was Ada Lovelace?</strong></p>\r\n\r\n<img align=\"left\" hspace=\"5\" src=\"http://c4lpt.co.uk/images/adal.jpg\" vspace=\"5\" /><p>Ada Lovelace (1815-1852) was one of the world’s first computer programmers, and one \r\nof the first people to see computers as more than just a machine for \r\ndoing sums. She wrote programmes for Charles Babbage’s Analytical \r\nEngine, a general-purpose computing machine, despite the fact that it \r\nwas never built. She also wrote the very first description of a computer\r\n and of software.</p>\r\n\r\n<p><strong>What is Ada Lovelace Day?</strong></p>\r\n\r\n<p>It is an <a href=\"http://findingada.com/\" target=\"_blank\">international day of blogging</a> to\r\n\t\t\tcelebrate the achievements of women in technology and science.&#0160; My blogging tribute today goes to Mary Somerville.</p>\r\n\r\n<p><strong>Who was Mary Somerville?</strong></p>\r\n\r\n<img align=\"right\" hspace=\"5\" src=\"http://c4lpt.co.uk/images/marys.gif\" vspace=\"5\" /><p>Mary Fairfax Somerville<strong> </strong>was born in 1780 in Scotland.&#0160; She was a&#0160;\r\n science writer and polymath and, as <a href=\"http://en.wikipedia.org/wiki/Mary_Somerville\" target=\"_blank\">Wikipedia</a> puts it, was working &quot;<em>at a time when women&#39;s participation in science was discouraged</em>&quot;.&#0160; </p>\r\n\r\n<p>Here is a summary of her life and work using quotes from the Wikipedia entry: </p>\r\n\r\n<blockquote><p><em>&quot;She \r\nstudied mathematics\r\n and astronomy,\r\n and was the second woman scientist to receive recognition in the United\r\n Kingdom after Caroline Herschel.</em></p>\r\n\r\n<p><em>Having been requested by Lord Brougham to translate for the Society for the \r\nDiffusion of Useful Knowledge the </em><em>Mécanique Céleste of \r\nLaplace, she greatly popularized its form, and its publication in 1831, \r\nunder the title of </em><em>The Mechanism of the Heavens, at once made her\r\n famous. </em></p>\r\n\r\n<p><em>Her other works are the </em><em>On the Connexion of the Physical Sciences\r\n (1834), </em><em>Physical Geography</em> (1848), and <em>Molecular and \r\nMicroscopic Science (1869). In 1835, she and Caroline Herschel \r\nbecame the first women members of the Royal Astronomical Society.</em></p>\r\n\r\n<p><em>Much of the popularity of her writings was due to her clear and crisp \r\nstyle and the underlying enthusiasm for her subject which pervaded them.</em></p>\r\n\r\n<p><em>She also invented the commonly used variables from algeb</em><em>raic maths.</em></p>\r\n\r\n\r\n\r\n</blockquote>\r\n\r\n<p>Mary Somerville died in 1872 (in Naples in Italy) at the grand old age of 91, unlike poor Ada who died at 36<em>.&#0160; <br /></em></p>\r\n\r\n<p>She was an intriguing and inspiring lady; and Somerville College at Oxford University was \r\nnamed after her. As it turns out I have also been surprised to find out that there are some personal connections too! </p>",
+         "textFormat" : "html",
+         "title" : "Ada Lovelace Day : Mary Somerville",
+         "urlId" : "6a00d8341c887753ef01310fd1261e970c"
+      }
+   ],
+   "estimatedTotalResults" : 157,
+   "moreResultsToken" : "ca2057d7c953ba2d00caa5b2cd1298df53b970c71699315e3ab54e915e11fc60fa91"
+}
